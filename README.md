@@ -1,4 +1,4 @@
-#### WELCOME TO MY PROFILE
+#### WELCOME TO MY WORLD
 # 👋 Hi, I’m @irakli012
 ### Middle .NET Backend Developer | Full-Stack & Cloud Engineer
 
@@ -12,52 +12,60 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<br>
+
 **Backend & Architecture**
-<div align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt=".NET">
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt=".NET Framework">
-  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35" alt="MediatR">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35" alt="Laravel">
-</div>
-<div align="left" style="margin-top: 5px;">
-  <img src="https://img.shields.io/badge/.NET_Versions-6_|_8_|_9_|_10-512BD4?style=flat" height="30" alt="Versions">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET_Versions-6_|_8_|_9_|_10-512BD4?style=flat" height="30">
+</p>
+
+<br>
 
 **Databases & Persistence**
-<div align="left">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35" alt="Oracle">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35" alt="MS SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="Postgres">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="MongoDB">
-</div>
-<div align="left" style="margin-top: 5px;">
-  <img src="https://img.shields.io/badge/NoSQL-Data-green?style=flat" height="30" alt="NoSQL">
-  <img src="https://img.shields.io/badge/Stored_Procedures-Data_Logic-orange?style=flat" height="30" alt="Stored Procedures">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="35">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/NoSQL-Data-green?style=flat" height="30">
+  <img src="https://img.shields.io/badge/Stored_Procedures-Data_Logic-orange?style=flat" height="30">
+</p>
+
+<br>
 
 **Cloud, DevOps & Infrastructure**
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="35" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="35" alt="NGINX">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="35" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="Linux">
-</div>
-<div align="left" style="margin-top: 5px;">
-  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=flat" height="30" alt="CI/CD">
-  <img src="https://img.shields.io/badge/IIS-Windows_Server-blue?style=flat" height="30" alt="IIS">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="35">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/CI/CD-Pipelines-blue?style=flat" height="30">
+  <img src="https://img.shields.io/badge/IIS-Windows_Server-blue?style=flat" height="30">
+</p>
+
+<br>
 
 **Testing & AI Engineering**
-<div align="left">
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-8E75B2?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Prompt Engineering">
-  <img src="https://img.shields.io/badge/Cursor_IDE-191919?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="Cursor">
-</div>
-<div align="left" style="margin-top: 5px;">
-  <img src="https://img.shields.io/badge/NUnit-Testing-20AE0B?style=flat&logo=nunit" height="30" alt="NUnit">
-  <img src="https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat&logo=dotnet" height="30" alt="xUnit">
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-8E75B2?style=for-the-badge&logo=openai&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/Cursor_IDE-191919?style=for-the-badge&logo=openai&logoColor=white" height="35">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/NUnit-Testing-20AE0B?style=flat&logo=nunit" height="30">
+  <img src="https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat&logo=dotnet" height="30">
+</p>
 
 ---
 
