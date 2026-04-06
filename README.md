@@ -70,10 +70,6 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=10&duration=2700&size=34&color=512BD4&center=true&vCenter=true&width=750&lines=Welcome!;I'm%20Irakli%20Matiashvili" alt="Welcome — I'm Irakli Matiashvili" />
-
-  <br>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irakli012/irakli012/output/github-contribution-grid-snake.svg" />
