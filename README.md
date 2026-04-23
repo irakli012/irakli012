@@ -1,4 +1,3 @@
-#### WELCOME TO MY WORLD
 # 👋 Hi, I’m @irakli012
 ### Middle .NET Backend Developer | Full-Stack & Cloud Engineer
 
