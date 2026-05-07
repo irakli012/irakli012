@@ -61,7 +61,7 @@
 ---
 
 ## 🌟 Featured Projects
-
+* 🚀 **[Portfolio Website](https://portfolio-jade-three-sc2sqks756.vercel.app)**: A premium, responsive personal portfolio featuring **GSAP animations**, **GitHub API integration**, and a sleek modern UI.
 * 🎬 **[FavFlicks](https://github.com/irakli012/FavFlicks)**: A Full-Stack Movie Social Platform powered by **React 19** and **.NET 10**. Features JWT auth, role-based access, and TMDB integration.
 * 🎓 **[College Ilia](https://iliacollege.vercel.app/)**: A bilingual academic website built with **React**, **TypeScript**, and **Tailwind v4**, featuring an i18n system and JWT-protected admin panel.
 * 🎮 **Game Store**: A microservices-based e-commerce application using **Docker**, **MongoDB**, and token-based authentication.
