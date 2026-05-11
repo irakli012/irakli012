@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35">
 </div>
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.shields.io/badge/.NET_Versions-6_|_8_|_9_|_10-512BD4?style=flat" height="30">
-</div>
+</div> -->
 
 **Databases & Persistence**
 <div align="left">
